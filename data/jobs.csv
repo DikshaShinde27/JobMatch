@@ -1,0 +1,16 @@
+id,title,company,skills,job_type,location,level,link,description
+1,Python Developer Intern,TechNova,"Python, SQL, Git",Internship,Remote,Beginner,https://example.com/job1,Build Python backend tools
+2,Java Backend Intern,CodeSphere,"Java, SQL, OOP",Internship,Remote,Beginner,https://example.com/job2,Develop backend APIs
+3,Data Analyst Intern,DataWorks,"Python, SQL, Excel",Internship,Remote,Beginner,https://example.com/job3,Analyze business data
+4,Frontend Developer Intern,PixelLabs,"HTML, CSS, JavaScript",Internship,Remote,Beginner,https://example.com/job4,Build frontend interfaces
+5,Python Software Engineer,DevCore,"Python, Django, SQL",Full-time,Remote,Intermediate,https://example.com/job5,Develop web applications
+6,AI Research Intern,AI Labs,"Python, Machine Learning, NumPy",Internship,Remote,Beginner,https://example.com/job6,Explore AI models
+7,Software Development Intern,InnovateTech,"Python, Java, Git",Internship,Remote,Beginner,https://example.com/job7,Assist software development
+8,SQL Developer Intern,QueryBase,"SQL, Python, Databases",Internship,Remote,Beginner,https://example.com/job8,Work with relational databases
+9,Web Developer Intern,WebWorks,"HTML, CSS, JavaScript, Python",Internship,On-site,Beginner,https://example.com/job9,Develop web applications
+10,Python Automation Intern,AutoTech,"Python, Git, APIs",Internship,Remote,Beginner,https://example.com/job10,Automate business workflows
+11,Data Science Intern,DataMind,"Python, SQL, Machine Learning",Internship,Remote,Beginner,https://example.com/job11,Build data science models
+12,Software Engineer,TechWorld,"Java, Python, SQL",Full-time,On-site,Intermediate,https://example.com/job12,Build software systems
+13,Backend Developer Intern,ServerStack,"Python, APIs, SQL",Internship,Remote,Beginner,https://example.com/job13,Develop backend services
+14,Cloud Intern,CloudNine,"Python, AWS, Linux",Internship,Remote,Beginner,https://example.com/job14,Assist cloud engineering
+15,Computer Science Intern,FutureTech,"Python, Java, C++, Git",Internship,Remote,Beginner,https://example.com/job15,Work on engineering tasks
